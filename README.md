@@ -1,4 +1,3 @@
-# Task A of CSMBD CourseWork:
 # MapReduce Flight Data Analysis
 
 A Python-based MapReduce framework designed to analyse passenger-flight data. The system reads a CSV dataset to identify the most frequent flyers and the busiest flight routes using a parallel processing pipeline inspired by the Hadoop MapReduce model.
